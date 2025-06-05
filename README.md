@@ -10,6 +10,10 @@
 
 本数据集包含成都大学 Ultra 战队在 **2025 超级对抗赛** 比赛期间采集的**单目雷达站**原始视频数据，包含多场正式比赛和训练赛，雷达站采用的是[厦门理工学院PFA战队单目方案](https://github.com/CarryzhangZKY/pfa_vision_radar)。
 
+<div align="center">
+  <img src="docs/img/gif.gif" width="75%">
+</div>
+
 ## 📥 下载
 
 > [!NOTE]
